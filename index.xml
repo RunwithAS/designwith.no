@@ -7,5 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://runwith.no/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://runwith.no/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://runwith.no/about/</guid>
+      <description>RunWith is a forward-thinking IT consultancy firm dedicated to delivering innovative technology solutions and strategic guidance. Our mission is to empower businesses through cutting-edge IT services, driving growth and efficiency in an ever-evolving digital landscape. Specializing in a range of services from system integration, cloud computing, to cybersecurity, RunWith offers tailor-made solutions designed to meet the unique needs of each client. Our team of expert consultants combines deep industry knowledge with technical expertise, ensuring not only the implementation of robust IT infrastructures but also providing ongoing support and advice to navigate the complexities of modern technology.</description>
+    </item>
   </channel>
 </rss>
