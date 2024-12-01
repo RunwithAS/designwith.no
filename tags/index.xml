@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Runwith</title>
-    <link>https://runwith.no/tags/</link>
-    <description>Recent content in Tags on Runwith</description>
+    <title>Tags on Designwith</title>
+    <link>https://designwith.no/tags/</link>
+    <description>Recent content in Tags on Designwith</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://runwith.no/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://designwith.no/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

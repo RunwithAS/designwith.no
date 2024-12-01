@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Runwith</title>
-    <link>https://runwith.no/categories/</link>
-    <description>Recent content in Categories on Runwith</description>
+    <title>Categories on Designwith</title>
+    <link>https://designwith.no/categories/</link>
+    <description>Recent content in Categories on Designwith</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://runwith.no/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://designwith.no/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

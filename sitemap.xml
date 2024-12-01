@@ -2,12 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://runwith.no/about/</loc>
+    <loc>https://designwith.no/about/</loc>
   </url><url>
-    <loc>https://runwith.no/categories/</loc>
+    <loc>https://designwith.no/categories/</loc>
   </url><url>
-    <loc>https://runwith.no/</loc>
+    <loc>https://designwith.no/contact/</loc>
   </url><url>
-    <loc>https://runwith.no/tags/</loc>
+    <loc>https://designwith.no/</loc>
+  </url><url>
+    <loc>https://designwith.no/tags/</loc>
   </url>
 </urlset>
