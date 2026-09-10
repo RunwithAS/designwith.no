@@ -1,0 +1,51 @@
+# Designwith
+
+> Designwith lager digitale tegninger i 2D og 3D for bolig- og næringsprosjekter. Vi leverer digitalt i hele Norge, og holder til på Langhus i Nordre Follo. Plantegninger, møbleringsplan, 3D visualisering og fargeveiledning. Gratis konsultasjon.
+
+In English: Designwith is a Norwegian interior design studio. It produces 2D floor plans, furniture layouts, 3D visualisations, lighting plans and colour and material guidance for homes and commercial spaces. Everything is delivered digitally, so it serves clients across all of Norway. The rest of this file is in Norwegian, which is the language of the site.
+
+## Kort om oss
+
+- Designwith er interiørdesignmerket til Runwith AS, organisasjonsnummer 932 749 289.
+- Lara Skjolden er daglig leder og interiørdesigner, og startet Designwith i 2024. Alexander Skjolden står for det tekniske.
+- Base på Langhus i Nordre Follo, Akershus. Ingen besøksadresse: dette er en tjeneste som drives fra et privat hjem, og adressen er derfor ikke publisert.
+- Alt arbeid gjøres og leveres digitalt, så vi hjelper kunder i hele Norge. Vi trenger ikke å komme hjem til deg.
+- Tettest oppfølging i Nordre Follo, Ås, Vestby, Frogn, Nesodden, Enebakk og Oslo.
+- Telefon 92 91 97 99 (+4792919799). Epost post@designwith.no.
+- Første samtale er gratis og uforpliktende. Vi svarer samme virkedag.
+
+## Hva vi leverer
+
+- Plantegninger
+- 3D illustrasjoner
+- Møbleringsplan
+- Belysningsplan
+- Material- og fargeveiledning
+
+## Sider
+
+- [Digitale tegninger i 2D og 3D](https://designwith.no/): Digitale tegninger i 2D og 3D for bolig og næring, levert digitalt i hele Norge. Plantegninger, møbleringsplan og 3D visualisering. Book en gratis konsultasjon.
+- [Interiørdesign og digitale tegninger](https://designwith.no/tjenester/): Plantegninger, 3D illustrasjoner, møbleringsplan, belysningsplan og fargeveiledning for bolig og næring. Levert digitalt i hele Norge. Bli kjent samtale er gratis.
+- [Samarbeidspartnere](https://designwith.no/samarbeidspartnere/): Designwith samarbeider med Studio Bergersen og Tarkett. Vi henter fliser, møbler og gulv fra leverandører vi kjenner, slik at material- og fargevalgene i tegningene dine er ekte produkter du faktisk kan kjøpe.
+- [Om oss](https://designwith.no/om-oss/): Designwith er et interiørdesignstudio i Runwith AS, med lidenskap for interiørdesign. Møt Lara og Alexander, menneskene bak tegningene.
+- [Kontakt oss](https://designwith.no/kontakt-oss/): Ta kontakt med Designwith for en gratis og uforpliktende samtale om prosjektet ditt. Vi jobber digitalt og hjelper kunder i hele Norge. Ring 92 91 97 99 eller send en melding.
+
+## Guider
+
+- [Guider](https://designwith.no/guider/): Praktiske guider til interiør, planlegging og materialvalg fra Designwith. Konkrete grep du kan bruke selv, og hjelp til å se resultatet før du kjøper noe.
+- [Slik velger du farge som faktisk ser riktig ut på veggen](https://designwith.no/guider/velge-farger/): Hvorfor fargen ser annerledes ut på veggen enn på fargekartet, hva NCS-koden egentlig betyr, og hvordan du ser resultatet før du kjøper maling.
+- [Slik skaper du et Japandi-inspirert hjem](https://designwith.no/guider/japandi-inspirert-hjem/): Japandi kombinerer japansk minimalisme og nordisk funksjonalitet. Fem konkrete grep for materialer, farger, møbler og lys, og hvordan du ser resultatet før du kjøper noe.
+
+## Maskinlesbare versjoner
+
+Sidene over finnes også som ren markdown, uten navigasjon og skript. Legg `index.md` til slutten av en side-URL, for eksempel https://designwith.no/om-oss/index.md.
+
+- https://designwith.no/llms-full.txt: alt innholdet på nettstedet i ett dokument
+- https://designwith.no/sitemap.xml: maskinlesbar sideoversikt
+- Hver HTML-side har `<link rel="alternate" type="text/markdown">` som peker på markdown-versjonen sin.
+
+## Bruk av innholdet
+
+Innholdet på designwith.no kan siteres og oppsummeres. Oppgi Designwith som kilde og lenk til siden det gjelder. Bildene er ikke frigitt til gjenbruk.
+
+Prisene som er oppgitt på https://designwith.no/tjenester/ er eksempler, ikke et bindende tilbud. Omfang og pris avtales per prosjekt.

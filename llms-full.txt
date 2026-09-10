@@ -1,0 +1,352 @@
+# Designwith
+
+> Designwith lager digitale tegninger i 2D og 3D for bolig- og næringsprosjekter. Vi leverer digitalt i hele Norge, og holder til på Langhus i Nordre Follo. Plantegninger, møbleringsplan, 3D visualisering og fargeveiledning. Gratis konsultasjon.
+
+Dette dokumentet inneholder alt innholdet på https://designwith.no/ samlet, i markdown. Den kortere oversikten ligger på https://designwith.no/llms.txt.
+
+Designwith er interiørdesignmerket til Runwith AS, organisasjonsnummer 932 749 289. Base på Langhus i Nordre Follo, alt arbeid leveres digitalt i hele Norge. Telefon 92 91 97 99, epost post@designwith.no.
+
+
+---
+
+# Digitale tegninger i 2D og 3D
+
+Kilde: https://designwith.no/
+Sist oppdatert: 2026-08-31
+
+## Interiørdesign og digitale tegninger for bolig og næring
+
+Få et tydelig bilde av potensialet i boligen før du tar viktige valg. Vi leverer plantegninger og 3D-visualiseringer som gir bedre oversikt, tryggere beslutninger og et solid grunnlag for videre arbeid. Alt arbeidet gjøres digitalt, så vi hjelper kunder i hele Norge.
+
+## Slik kan vi hjelpe deg
+
+Fra første skisse til ferdig visualisering. Vi tilpasser leveransen til prosjektet ditt, enten det er en enkelt stue eller et helt næringslokale.
+
+### 2D areal- og møbleringsplan
+
+Trenger du hjelp til å finne den optimale planløsningen, men ønsker å bruke tiden din på andre ting? Vi lager 2D plantegninger tilpasset dine ønsker og behov.
+
+Les mer: https://designwith.no/tjenester/#plantegninger
+
+### 3D visning
+
+3D visualisering gjør det mulig å se hvordan det ferdige prosjektet vil se ut, og om det trengs endringer i planen. Designet i 3D gir liv til 2D tegningene og hjelper deg å se helheten.
+
+Les mer: https://designwith.no/tjenester/#3d-illustrasjoner
+
+### Samarbeid
+
+Jobber du med bolig eller næringslokaler? Vi samarbeider gjerne med eiendomsmeglere, boligutviklere, entreprenører, håndverkere og møbelleverandører.
+
+Les mer: https://designwith.no/samarbeidspartnere/#samarbeid
+
+## Slik jobber vi
+
+Fra første samtale til ferdig tegning. Du vet alltid hva som skjer videre.
+
+1. Gratis samtale: Vi tar kontakt så snart som mulig for å bli kjent og høre mer om prosjektet ditt. Helt uforpliktende.
+2. Du sender oss detaljene: Du sender oss den tekniske informasjonen vi trenger for å virkeliggjøre ønskene dine.
+3. Vi tegner: Avhengig av behovet ditt lager vi arealplan, møbleringsplan og/eller 3D visualisering.
+4. Vi går gjennom sammen: Sammen vurderer vi om det trengs endringer på designet, før du får det ferdige produktet.
+
+## Vi jobber digitalt, uansett hvor du bor
+
+Vi trenger ikke å komme hjem til deg for å lage tegningene dine. Alt vi trenger er mål og bilder av rommet, eller en plantegning hvis du har en fra før. Har du ikke mål, viser vi deg hvordan du måler opp selv.
+
+Underveis holder vi kontakten på telefon, epost eller video. Du får leveransen som filer du kan bruke videre hos håndverker, arkitekt eller møbelleverandør. Derfor kan vi hjelpe kunder i hele Norge.
+
+## Hva kundene sier
+
+> Vi fikk gode råd og flotte skisser/tegninger når vi skulle pusse opp våre kontorer. Kjapt og smidig.
+
+> Vi jobbet med Lara i forbindelse med planlegging av nye sanitærfasiliteter på kontoret. Hun er dyktig, profesjonell og kom med gode løsninger. Anbefales varmt!
+
+## Har du en idé du ønsker å realisere, men usikker på hvor du skal starte?
+
+Kom i gang med en tydelig plan. Ta kontakt i dag.
+
+
+---
+
+# Interiørdesign og digitale tegninger
+
+Kilde: https://designwith.no/tjenester/
+Sist oppdatert: 2026-08-27
+
+Vi lager digitale tegninger som gir deg full kontroll over rommet før arbeidet starter. Velg det du trenger, eller la oss sette sammen en pakke for prosjektet ditt.
+
+## Plantegninger
+
+En god plantegning legger grunnlaget for et vellykket prosjekt. Med en oversiktlig plantegning får du god oversikt over prosjektet. Vi tilbyr oversiktlige og funksjonelle plantegninger som gir deg full kontroll over romløsning og arealutnyttelse, uansett om du skal pusse opp, bygge om eller utvikle nye lokaler.
+
+## 3D illustrasjoner
+
+Med 3D illustrasjoner tar du planleggingen til et nytt nivå. Du kan se hvordan det ferdige rommet vil se ut før ombygging og innkjøp starter. 3D illustrasjoner gjør det lettere å visualisere farger, materialer og møblering før det endelige valget tas. Dette gir rom for kreativitet og trygghet i beslutningsprosessen.
+
+## Andre tjenester
+
+### Møbleringsplan
+
+En møbleringsplan er en sentral del av interiørdesignprosessen og danner grunnlaget for en funksjonell, balansert og helhetlig romløsning. Planen viser hvordan møbler og soner plasseres i forhold til rommets størrelse, form, lysforhold og bruksmønster. Gjennom en bevisst disponering av arealet sikres god flyt, riktig skala og en naturlig sammenheng mellom funksjon og estetikk. En gjennomarbeidet møbleringsplan bidrar til å utnytte rommets potensial og skape et interiør som både er praktisk, harmonisk og tilpasset brukerens behov.
+
+### Belysningsplan
+
+En belysningsplan er en viktig del av interiørdesignprosessen og bidrar til å skape både funksjonalitet, atmosfære og visuell helhet i et rom. Planen viser hvordan ulike lyskilder plasseres og kombineres for å understøtte rommets bruk, fremheve materialer og detaljer, samt skape riktig stemning gjennom dagen. Ved å arbeide bevisst med grunnbelysning, arbeidslys og stemningsbelysning oppnås en balansert og gjennomtenkt løsning. En god belysningsplan sikrer at lyset ikke bare dekker praktiske behov, men også forsterker interiørets uttrykk og opplevelsen av rommet.
+
+### Material- og fargeveiledning
+
+Vi lager en visuell samling av farger, bilder, teksturer, typografi og stemninger som viser retningen for et designprosjekt. Det fungerer som en inspirasjonskilde og hjelper til med å skape en tydelig rød tråd i uttrykket. Slik kan man få et raskt inntrykk av stil, atmosfære og hvilke følelser prosjektet skal formidle. Det er et nyttig verktøy i starten av en kreativ prosess, både for å utforske ideer og for å presentere en visuell retning.
+
+## Priseksempler
+
+Under ser du hva vanlige leveranser koster hos oss. Dette er eksempler, ikke faste priser: hva ditt prosjekt koster avhenger av størrelsen og hvor sammensatt det er.
+
+- Bli kjent samtale, 30 minutter: Gratis
+- Ny plantegning i 2D, når du kan levere mål: 3 900,-
+- Oppriss av vegger, for eksempel til håndverker: 2 900,-
+- Belysningsplan, opptil fem rom: 5 900,-
+- Farge- og materialvalg: 4 500,-
+- Innkjøpsliste: 2 900,-
+- 3D illustrasjon, første bilde: 3 900,-
+- 3D illustrasjon, per bilde deretter: 1 900,-
+- Komplett rom: plantegning, to 3D-bilder og valg av farger og materialer: 12 900,- (spar 1 300,-)
+
+Alle priser er inkludert mva. Etter den gratis samtalen får du et konkret tilbud for ditt prosjekt, slik at du vet nøyaktig hva det koster før vi starter. Større eller mer sammensatte prosjekter prises individuelt.
+
+## Usikker på hva du trenger?
+
+Book en gratis bli kjent samtale på 30 minutter, så finner vi ut av det sammen.
+
+
+---
+
+# Guider
+
+Kilde: https://designwith.no/guider/
+Sist oppdatert: 2026-08-29
+
+Konkrete råd du kan bruke selv. Vi skriver om det vi blir spurt om oftest, ett tema om gangen.
+
+- [Slik velger du farge som faktisk ser riktig ut på veggen](https://designwith.no/guider/velge-farger/): Hvorfor fargen ser annerledes ut på veggen enn på fargekartet, hva NCS-koden egentlig betyr, og hvordan du ser resultatet før du kjøper maling.
+- [Slik skaper du et Japandi-inspirert hjem](https://designwith.no/guider/japandi-inspirert-hjem/): Japandi kombinerer japansk minimalisme og nordisk funksjonalitet. Fem konkrete grep for materialer, farger, møbler og lys, og hvordan du ser resultatet før du kjøper noe.
+
+## Vil du se hvordan det blir hos deg?
+
+En guide tar deg et stykke på vei. Resten tegner vi sammen, i dine mål og ditt rom.
+
+
+---
+
+# Samarbeidspartnere
+
+Kilde: https://designwith.no/samarbeidspartnere/
+Sist oppdatert: 2026-08-29
+
+Vi samarbeider med leverandører vi kjenner godt. Produktene deres går rett inn i material- og fargevalgene vi lager, og vi anbefaler hverandre videre til kunder. Det betyr at det du ser i tegningen er ekte produkter, med ekte pris og leveringstid, ikke bare en farge på skjermen.
+
+## Hvem vi jobber med
+
+### Studio Bergersen, Fliser og interiør
+
+Nettsted: https://www.studioflisekompaniet.no/
+
+Studio Bergersen er en av Norges eldste og største importører av fliser, møbler og interiør, og har hatt interiørarkitekter, arkitekter, utbyggere og entreprenører som kunder i over 30 år. De har Norges største lagerførte flisutvalg, til gulv, vegg, våtrom, trapp og fasade, og showroom i Oslo, Bergen og Trondheim. Vi henter fliser og materialer derfra når vi setter sammen material- og fargevalg, og sender gjerne kunder videre til et showroom for å kjenne på materialene selv.
+
+### Tarkett, Gulv
+
+Nettsted: https://tarkett.no/
+
+Tarkett har laget gulv siden 1886 og er en av verdens største gulvprodusenter, med parkett, laminat, vinyl, linoleum, teppe og idrettsgulv. Mesteparten av parketten til det nordiske markedet produseres i Sverige. Vi bruker gulvene deres i plantegninger og 3D-illustrasjoner, slik at gulvet du ser i visualiseringen er et gulv du kan bestille hos en forhandler etterpå.
+
+## Tresporet
+
+Nettsted: https://tresporet.no/
+
+Tresporet lager møbler, belysning og interiør i eget verksted, tegnet digitalt og produsert lokalt. Det er Runwith AS som står bak, det samme selskapet som Designwith, så skal lokalet både tegnes og møbleres kan begge deler skje i samme hus. Verkstedet er lite og tar bestillingsverk i mindre antall om gangen, så spør oss tidlig om det passer for prosjektet ditt.
+
+## Vil du samarbeide med oss?
+
+Jobber du med bolig eller næringslokaler? Vi samarbeider gjerne med eiendomsmeglere, boligutviklere, entreprenører, håndverkere og møbelleverandører. Vi leverer plantegninger og 3D-visualiseringer dere kan bruke i salg, prosjektering og kundedialog, uten at dere trenger egen tegnekompetanse.
+
+## Skal du velge materialer, men vet ikke hvor du skal begynne?
+
+Book en gratis bli kjent samtale på 30 minutter, så går vi gjennom prosjektet ditt sammen.
+
+
+---
+
+# Om oss
+
+Kilde: https://designwith.no/om-oss/
+Sist oppdatert: 2026-09-10
+
+Designwith er et nyetablert interiørdesignstudio i Runwith AS, med lidenskap for interiørdesign og alt som hører til. Vi satser på nært samarbeid og kreativ skreddersøm for hver kunde. Målet vårt er å skape personlige og funksjonelle rom, enten du ønsker små fornyelser eller en større oppgradering. Designwith har stort fokus på kvalitet, detaljer og de nyeste trendene innen interiør. Vi hjelper deg å realisere dine visjoner for hjemmet eller arbeidsplassen.
+
+## Hvem vi er
+
+### Lara Skjolden, Daglig leder og interiørdesigner
+
+Designwith var Laras idé, og hun startet det i 2024. Hun leder selskapet med kreativitet og engasjement, har øye for detaljer og brenner for å skape inspirerende interiør. Lara er utdannet interiørdesigner og har fra tidligere utdanning som sosionom. Erfaringen fra butikkinnredning, visuell utforming og utstillingsdesign gjør at hun ser både hvordan et rom skal fungere og hvordan det skal oppleves. Hun tegner sjelden alene: prosjektene går fram og tilbake mellom henne og Alexander før noe er ferdig.
+
+### Alexander Skjolden, Teknisk support
+
+Alexander sørger for at alt det tekniske og praktiske fungerer som det skal, slik at Lara kan bruke tiden sin på design. Han er utdannet dataingeniør, løsningsorientert og alltid klar for nye utfordringer. Da Lara startet Designwith i 2024 ble han med fra begynnelsen, og de har bygget det opp sammen siden. Han liker å jobbe kreativt, så det blir like gjerne diskusjon om planløsning og farger som om filer og verktøy.
+
+## Planlegger du å pusse opp, men er usikker på hvor du skal starte?
+
+Ta kontakt, så hjelper vi deg i gang.
+
+
+---
+
+# Kontakt oss
+
+Kilde: https://designwith.no/kontakt-oss/
+Sist oppdatert: 2026-08-31
+
+Fortell oss kort om prosjektet, så tar vi kontakt for en gratis og uforpliktende samtale. Vi svarer samme virkedag.
+
+## Hva skjer etter at du har kontaktet oss?
+
+1. Vi tar kontakt med deg så snart som mulig for å avtale en gratis samtale, for å bli kjent og få vite mer om prosjektet ditt.
+2. Du sender oss den tekniske informasjonen vi trenger for å virkeliggjøre dine ønsker.
+3. Avhengig av hvilke behov du har lager vi arealplan, møbleringsplan og/eller 3D visualisering etter dine ønsker.
+4. Sammen vurderer vi om det trengs endringer på designet.
+5. Ferdig produkt, og vurdering av det ferdige produktet.
+
+## Slik tar du kontakt
+
+- Telefon: 92 91 97 99 (+4792919799)
+- Epost: post@designwith.no
+- Kontaktskjema: https://designwith.no/kontakt-oss/
+
+
+---
+
+# Slik velger du farge som faktisk ser riktig ut på veggen
+
+Kilde: https://designwith.no/guider/velge-farger/
+Sist oppdatert: 2026-09-09
+
+Du har malt tre prøver på veggen. Om morgenen ser den ene grå ut. Om kvelden er den plutselig gul. Naboen som stakk innom syntes alle tre var like, og nå er du ikke sikker på om du har gjort en feil et sted.
+
+Det har du ikke. Farge oppfører seg sånn, og det er ikke fordi du velger dårlig. Her er det som faktisk skjer, og hva du kan gjøre med det.
+
+## Hva er NCS, og hvorfor står den koden på boksen?
+
+NCS står for Natural Colour System, og det er systemet de fleste norske malingsprodusenter bruker for å beskrive farge presist.
+
+Poenget med NCS er at det beskriver farge slik øyet ser den, ikke slik maskinen blander den. Alt tar utgangspunkt i seks grunnfarger: hvit, svart, gul, rød, blå og grønn. Alle andre farger er en blanding av disse.
+
+En kode som **S 2005-Y20R** ser kryptisk ut, men den er egentlig ganske grei:
+
+- **20** er hvor mye svart som ligger i fargen. Lavt tall betyr lys farge.
+- **05** er hvor ren fargen er. Lavt tall betyr dempet og grålig, høyt tall betyr klar og sterk.
+- **Y20R** er kuløren. Her: gul, dratt 20 prosent mot rødt. Altså en varm, litt rødlig gul.
+
+Det viktigste for deg er dette: **koden er etterprøvbar.** Samme kode gir samme farge uansett hvilken leverandør du går til. Du er ikke prisgitt at «Vårlig Beige» hos den ene ligner «Sandstorm» hos den andre. Noterer du koden, kan du komme tilbake om fem år og få nøyaktig samme farge til den siste veggen.
+
+Det er verdt å vite. Men det løser ikke hovedproblemet, som er at den samme koden ser forskjellig ut i to rom i samme hus.
+
+## Fem grep som gjør at du treffer
+
+### 1. Lyset avgjør mer enn fargen
+
+Dette er den store. Et nordvendt rom får kjølig, jevnt lys hele dagen, og trekker farger mot det grå og blå. Et sørvendt rom får varmt lys som skyver de samme fargene mot gult.
+
+Velger du en dempet grønn til stua fordi den var fin hos en venn, og venninnen bor sørvendt mens du bor nordvendt, får du ikke den samme fargen. Du får en kaldere og gråere versjon av den.
+
+Så: begynn med å se på vinduene, ikke på fargekartet. Hvilken vei vender rommet, og når på døgnet bruker du det mest? Et soverom du stort sett ser i kveldslys skal vurderes i kveldslys.
+
+### 2. Prøv fargen på stedet, ikke i butikken
+
+Lysrørene i butikken har ingenting til felles med lyset hjemme hos deg. En fargeprøve på 5 x 5 cm har heller ingenting til felles med en hel vegg.
+
+Mal store prøver, gjerne A4 eller større. Sett dem på flere vegger i rommet, ikke bare én. Og la dem stå et helt døgn. Se på dem om morgenen, midt på dagen og med lampene på om kvelden. Endrer fargen seg mer enn du klarer å leve med, er det ikke riktig farge for det rommet.
+
+### 3. Fargen blir alltid mørkere enn på fargekartet
+
+Nesten alle blir overrasket av dette.
+
+En liten fargeprøve er omgitt av hvitt papir, som gjør at den ser lysere ut enn den er. På veggen har fargen ingen hvit ramme rundt seg. Den ligger i stedet ved siden av seg selv, oppover og bortover, og bygger seg opp.
+
+I tillegg reflekterer vegger lys mot hverandre. Fire vegger i samme farge kaster fargen tilbake på hverandre og forsterker den.
+
+Tommelfingerregel: velg en anelse lysere enn det du tror du vil ha. I NCS betyr det å gå ned et hakk på det første tallet.
+
+### 4. Velg en palett, ikke en farge
+
+Det er her de fleste prosjekter går skeis. Veggfargen velges alene, og så skal taket, listene, kjøkkenfronten og sofaen finne seg til rette rundt den i etterkant.
+
+Snu på det. Bestem helheten først: vegg, tak, lister, gulv, tekstiler. Fem eller seks farger som hører sammen.
+
+Dette er NCS-systemet på sitt beste. Når du kjenner koden på veggfargen, kan du velge en list som ligger i samme kulør men lysere, eller en tekstil som ligger i motsatt ende og gir kontrast med vilje. Du gjetter ikke lenger. Du velger.
+
+### 5. Se rommet ferdig før du kjøper maling
+
+Alt over hjelper deg å gjette bedre. Men du gjetter fortsatt.
+
+Det er dette vi gjør hos Designwith: vi setter opp rommet ditt i 3D med de faktiske fargene du vurderer, og viser deg hvordan det ser ut ferdig. Med riktig lysinnfall for akkurat ditt rom, og med møblene og materialene du har eller planlegger.
+
+Da ser du forskjellen mellom to kandidater ved siden av hverandre, i stedet for å prøve å huske hvordan den ene så ut i går. Og du oppdager at gulvet du allerede har trekker fargen i en retning du ikke hadde tenkt på.
+
+Det koster mindre enn å male om.
+
+## Kort oppsummert
+
+Farge er ikke en smakssak alene. Den er lys, materialer og naboflater, og den oppfører seg annerledes i ditt rom enn i bildet du ble inspirert av.
+
+Bruk NCS-koden til å holde styr på hva du faktisk har valgt. Prøv stort og på stedet. Velg litt lysere enn du tror. Tenk palett fremfor enkeltfarge.
+
+Og er du usikker, er det helt greit å spørre. Vi tar fargerådgivning som en egen tjeneste, og ofte tar det bare én samtale å komme fra «jeg vet ikke» til «det er den der».
+
+## Usikker på fargene før du maler?
+
+Vi setter opp rommet ditt i 3D med de fargene du vurderer, slik at du ser resultatet før du kjøper maling. Start med en gratis samtale på 30 minutter.
+
+
+---
+
+# Slik skaper du et Japandi-inspirert hjem
+
+Kilde: https://designwith.no/guider/japandi-inspirert-hjem/
+Sist oppdatert: 2026-08-29
+
+I en hektisk hverdag søker stadig flere av oss ro og harmoni når vi kommer hjem. Det er kanskje derfor Japandi har blitt en av de mest populære interiørtrendene de siste årene. Japandi er en perfekt fusjon mellom det beste fra japansk minimalisme og nordisk funksjonalitet, to estetiske retninger som begge verdsetter enkelhet, kvalitet og naturlige materialer. Hos Designwith elsker vi Japandi, og vi har noen tips til hvordan du enkelt kan få stilen inn i ditt eget hjem.
+
+## Hva er Japandi?
+
+Japandi stilen er en harmonisk blanding av japansk wabi-sabi, skjønnheten i det uperfekte og naturlige, og skandinavisk enkelhet og hygge. Resultatet er et varmt, rolig og tidløst interiør, hvor hvert element har en funksjon og en sjel.
+
+## Slik skaper du et Japandi inspirert hjem
+
+### 1. Naturlige materialer og rolige farger
+
+Bruk mye treverk, bambus, lin, ull og keramikk. Velg lette og varme toner. Myke beige, dempede grønntoner og jordfarger sammen med skandinavisk hvitt og grått gir en rolig base. Kombiner gjerne lyse tresorter fra Norden med mørkere japanske treslag for kontrast.
+
+### 2. Stramme linjer og funksjonelle møbler
+
+Japandi handler om å velge få, men funksjonelle møbler av høy kvalitet. Tenk rene linjer, lave bord, åpne hyllesystemer og sittemøbler i naturmaterialer. La tingene få puste, og unngå for mye dekor og rot.
+
+### 3. Fokus på kvalitet og bærekraft
+
+Kjøp færre ting med god holdbarhet og håndverkspreg, fremfor å fylle rommet med masse småpynt. Lokale produkter og håndlagde detaljer gir et personlig preg som føles ekstra godt over tid.
+
+### 4. Grønt og vegetasjon
+
+Planter er viktige i begge kulturelle uttrykk, og passer perfekt inn i Japandi. Enkle grønne planter som bonsaitre, fiolinfikentre eller en klassisk Monstera gjør underverker for atmosfæren, og binder naturen inn i hjemmet.
+
+### 5. Skap balanse og ro
+
+La soner og flater være åpne. En Japandi inspirert innredning prioriterer gode lysforhold, luftige rom og visuelle pauser. Lag små soner der du kan trekke deg tilbake med en bok eller en kopp te. Skap balanse med tekstiler, matter og enkle dekorative elementer som keramikkvaser eller papirlampeskjermer.
+
+## Se hvordan det blir før du kjøper noe
+
+Japandi handler mye om proporsjoner, lys og luft, og nettopp det er vanskelig å se for seg på forhånd. En sofa som ser lett ut i butikken kan fylle hele stuen, og en farge som virker dempet på en prøve kan bli helt annerledes i et rom med lite dagslys.
+
+Med en [plantegning og 3D-visualisering](/tjenester/) ser du rommet ferdig innredet, med de materialene og fargene du faktisk vurderer, før du bestiller noe. Det gjør det enklere å teste ut løsninger, og du slipper kostbare endringer underveis. Vi jobber digitalt, så vi hjelper deg uansett hvor i landet du bor.
+
+## Vil du skape en rolig og harmonisk atmosfære preget av kvalitet, balanse og naturlige materialer?
+
+Kontakt oss, så hjelper vi deg å finne den perfekte miksen av japansk minimalisme og nordisk funksjonalitet, og realisere ditt unike Japandi hjem.
+
